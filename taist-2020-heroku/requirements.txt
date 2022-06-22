@@ -47,7 +47,7 @@ nbconvert==5.6.1
 nbformat==4.2.0
 networkx==2.4
 notebook==6.0.3
-numpy==1.17.4
+numpy==1.22.0
 octave-kernel==0.31.0
 opencv-python==4.1.2.30
 pandas==0.25.3
